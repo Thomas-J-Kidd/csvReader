@@ -48,7 +48,7 @@ This Python program allows users to read CSV files, explore available data, and 
 1. Clone the repository:
 
     ```bash
-    git clone https://github.com/your-username/csv-data-plotter.git
+    git clone [https://github.com/your-username/csv-data-plotter.git](https://github.com/Thomas-J-Kidd/csvReader.git)
     ```
 
 2. Install dependencies:
